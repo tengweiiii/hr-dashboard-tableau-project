@@ -3,9 +3,13 @@ This HR Dashboard is built to help HR teams understand their workforce data in a
 
 The dashboard has two main parts:
 
-**Summary View**: Gives a quick snapshot of important HR metrics like total employees, hiring and termination trends, department-wise distribution, job roles, and where employees are located. It also includes insights into employee demographics and salary patterns.
+**Summary View**: Gives a quick snapshot of important HR metrics like total employees, hiring and termination trends, department-wise distribution, job roles, and where employees are located. It also includes insights into employee demographics and salary patterns. 
+<img width="1397" height="796" alt="image" src="https://github.com/user-attachments/assets/3048a776-026d-40c1-b78f-c9fcbe8c8d18" />
+
 
 **Employee Records View**: Shows a full list of employees with details such as department, role, gender, age, education, and salary. You can filter and explore the data easily based on different fields.
+<img width="1391" height="791" alt="image" src="https://github.com/user-attachments/assets/2f622bdf-9a51-4af2-acc4-788925618a35" />
+
 
 This dashboard helps turn raw HR data into clear insights that support better decision-making.
 
